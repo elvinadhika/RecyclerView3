@@ -22,7 +22,6 @@ public class InputActivity extends AppCompatActivity {
     ImageView ivFoto;
     Uri UriFoto;
     Hotel hotel;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
